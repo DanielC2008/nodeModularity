@@ -1,0 +1,20 @@
+{
+  "name": "modularity",
+  "version": "1.0.0",
+  "description": "## Dice Roller ### This is an exercise in modularity that uses executes a dice roller from the command line.",
+  "bin": {"diceroll": "bin/diceroll"},
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielC2008/nodeModularity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielC2008/nodeModularity/issues"
+  },
+  "homepage": "https://github.com/DanielC2008/nodeModularity#readme"
+}
